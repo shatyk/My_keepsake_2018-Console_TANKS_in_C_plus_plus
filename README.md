@@ -7,6 +7,6 @@ The game features 10 consecutive levels, a progressive tank upgrade system, and 
 
 P.S. To ensure the game runs correctly, the console window needs to be enlarged before launching it.
 
-![tanks](https://github.com/user-attachments/assets/ae29f7ea-c7a4-4a88-8c96-53b5d53724a2)
+![tanks](https://github.com/user-attachments/assets/6ca9dfb9-d615-4a16-8152-60235bf1bf6e)
 
-![menu](https://github.com/user-attachments/assets/1e3dd5bf-c0c7-4949-8f23-f5e28e9e3d1f) ![instr](https://github.com/user-attachments/assets/39d270ee-87d9-4210-97e0-ff40f9809e9b) ![upgrd](https://github.com/user-attachments/assets/8600a76b-6701-427c-9206-63405d15e890)
+![menu](https://github.com/user-attachments/assets/899f2747-a974-465e-8b69-ae89b47dd6d7) ![instr](https://github.com/user-attachments/assets/9bb4bd8d-ae56-443d-a66a-66281d9e1661) ![upgrd](https://github.com/user-attachments/assets/47a5eb39-3e74-4c32-ae5e-b9dc42ed5fa9)
